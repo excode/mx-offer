@@ -60,4 +60,4 @@ Will list all transaction  data  (Record will be Cached )
 
 ![image](https://user-images.githubusercontent.com/4152357/161098016-c5132317-cedd-457c-96a6-848fd3d9f2be.png)
 
-##From the front when you click the "Grab a offer" it will add a random offer and store the record in Transaction table##
+## From the frontend when you click the "Grab a offer" it will add a random offer and store the record in Transaction table##
